@@ -1,5 +1,3 @@
-num1=int(input())
-PI=3.1416
-area=PI * num1 * num1
-print(area)
-
+celsius = float(input("Introdueix la temperatura en graus Celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+print(f"La temperatura en Fahrenheit és: {fahrenheit}")
