@@ -1,16 +1,9 @@
 # Autor: Harry White
 # Fecha: 2024-06-22
 
-# Passa el següent codi al VSC i ordena les línies següents perquè el programa funcioni
-# correctament:
+# Afegeix comentaris al següent codi per explicar què fa cada línia:
 
-def suma(x,y):
-    return x + y
-
-a = 5
-b = 3
-
-resultat = suma(a,b)
-
-print("Resultat:", resultat)
-
+a = int(input("Numero 1: "))  # Demana a l'usuari que introdueixi el primer número i l'emmagatzema a la variable 'a'
+b = int(input("Numero 2: "))  # Demana a l'usuari que introdueixi el segon número i l'emmagatzema a la variable 'b'
+suma = a + b  # Suma els valors de 'a' i 'b' i emmagatzema el resultat a la variable 'suma'
+print("La suma és:", suma)  # Mostra el resultat de la suma a l'usuari
