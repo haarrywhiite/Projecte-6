@@ -2,15 +2,10 @@
 # Fecha: 2024-06-22
 
 
-# Aquest programa funciona correctament, però volem moure la definició de la funció al
-# final. Ho pots fer sense que doni error?
+# Digues quin tipus de dada és cada variable:
 
-def main():
-    saluda()
-
-def saluda():
-    print("Hola!")
-
-main()
-
+edat = 17       # Enter
+nom = "Pau"     # Cadena de text (string)
+nota = 7.5      # Decimal (float)
+aprovat = True  # Booleà (boolean)
 
