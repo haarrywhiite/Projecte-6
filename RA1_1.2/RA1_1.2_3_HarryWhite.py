@@ -1,16 +1,7 @@
 # Autor: Harry White
 # Fecha: 2024-06-22
 
-# Passa el següent codi al VSC i ordena les línies següents perquè el programa funcioni
-# correctament:
+# Explica què fa aquest codi línia a línia:
 
-def suma(x,y):
-    return x + y
-
-a = 5
-b = 3
-
-resultat = suma(a,b)
-
-print("Resultat:", resultat)
-
+nom = input("Com et dius? ")  # Demana a l'usuari que introdueixi el seu nom i l'emmagatzema a la variable 'nom'
+print("Hola", nom)  # Mostra un missatge de salutació amb el nom introduït per l'usuari
