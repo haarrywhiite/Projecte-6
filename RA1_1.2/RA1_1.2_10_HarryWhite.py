@@ -4,6 +4,10 @@
 
 # Crea una petita calculadora que demani dos números i faci les operacions bàsiques (+, -,
 # *, /).
+# Especificacions d'entrada
+# Dos números reals.
+# Especificacions de sortida
+# La suma, la resta, la multiplicació i la divisió dels dos números.
 
 input_num1 = float(input("Introdueix el primer número: "))
 input_num2 = float(input("Introdueix el segon número: "))
