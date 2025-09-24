@@ -1,5 +1,5 @@
 # Autor: Harry White
-# Fecha: 2024-06-22
+# Data: 24-09-25
 
 # Observa el codi següent i respon (posa les respostes dins del codi en forma de
 # comentari):

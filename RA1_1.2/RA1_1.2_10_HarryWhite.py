@@ -1,6 +1,5 @@
 # Autor: Harry White
-# Fecha: 2024-06-22
-
+# Data: 24-09-25
 
 # Crea una petita calculadora que demani dos números i faci les operacions bàsiques (+, -,
 # *, /).

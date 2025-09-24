@@ -1,5 +1,5 @@
 # Autor: Harry White
-# Fecha: 2024-06-22
+# Data: 24-09-25
 
 # Explica què fa aquest codi línia a línia:
 

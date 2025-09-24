@@ -11,4 +11,4 @@ def saluda():
     
 saluda()
 
-#No es pot moure
+#No es pot moure.

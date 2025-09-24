@@ -1,6 +1,5 @@
 # Autor: Harry White
-# Fecha: 2024-06-22
-
+# Data: 24-09-25
 
 # Escriu un programa que demani a l’usuari un número , digui si és positiu, negatiu o zero i
 # imprimeixi “Gràcies!” al final

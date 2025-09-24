@@ -1,6 +1,5 @@
 # Autor: Harry White
-# Fecha: 2024-06-22
-
+# Data: 24-09-25
 
 # Digues quin tipus de dada és cada variable:
 
