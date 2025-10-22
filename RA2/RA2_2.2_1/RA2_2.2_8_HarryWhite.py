@@ -1,5 +1,5 @@
 # Autor: Harry White
-# Data: 10-10-25
+# Data: 1-10-25
 
 # Descripció del programa o enunciat de l'exercici:
 #Demana a l'usuari una frase i compta quantes vocals conté.
