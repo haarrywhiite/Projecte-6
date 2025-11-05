@@ -1,5 +1,5 @@
 # Autor: Harry White
-# Data: 31-10-25
+# Data: 5-11-25
 
 #Descripció del programa o enunciat de l'exercici:
 #Demana a l'usuari 5 paraules i emmagatzema-les en una llista

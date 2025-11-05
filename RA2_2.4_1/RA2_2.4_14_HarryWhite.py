@@ -1,5 +1,5 @@
 # Autor: Harry White
-# Data: 31-10-25
+# Data: 5-11-25
 
 #Descripció del programa o enunciat de l'exercici:
 #Demana 10 números i crea dues llistes: una amb els parells i una altra amb els senars.
@@ -18,5 +18,5 @@ for i in range(10):
     else:
         senars.append(numero)
 print("Llista de números parells:", parells)
-print("Llista de números senars:", senars)
+
     
