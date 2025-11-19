@@ -1,0 +1,6 @@
+Aquesta es la primera linia.
+Aquesta es la segona linia.
+Aquesta es la tercera linia.
+Aquesta es una linia afegida.
+Aquesta es una linia afegida EX5.
+Aquesta es una linia afegida EX5.
