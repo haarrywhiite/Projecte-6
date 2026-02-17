@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./RA3_POOIV/HERÈNCIA"
+    ]
+}
